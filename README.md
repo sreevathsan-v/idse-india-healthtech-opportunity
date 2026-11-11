@@ -1,8 +1,7 @@
 # Where Should a Healthtech Startup Launch First? A District-Level Opportunity Analysis of India
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/idse-india-healthtech-opportunity/blob/main/notebooks/idse_district_opportunity.ipynb)
-
-**Course:** IDSE, Data Science Project (Part A) | **Author:** [your name] | **Roll no.:** [roll no.]
+[![Open In Colab] https://colab.research.google.com/drive/1k9bPX86xfR9H6Odv3l1KrQRFD5KE_i88#scrollTo=6vcAsSr-wcIr
+**Course:** IDSE, Data Science Project (Part A) | **Team:** Sreevathsan V (EC24B1080), Kabilaash R (EC24B1082), Fedal Castro (EC24B1052)
 
 ---
 
