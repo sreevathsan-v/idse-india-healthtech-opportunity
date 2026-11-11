@@ -1,0 +1,6 @@
+NFHS/
+nfhs5_states/
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+.DS_Store
